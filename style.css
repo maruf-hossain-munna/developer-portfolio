@@ -17,7 +17,11 @@ h3{
 
 }
 p{
+    margin-bottom: 30px;
 
+}
+a{
+    
 }
 
 .hire{
@@ -28,9 +32,11 @@ p{
     background-image: linear-gradient( orange , tomato );
     color: white;
     padding: 10px 30px;
+    
     border: none;
     font: 20px;
    border-radius: 5px;
+
     
     
 }
@@ -51,6 +57,23 @@ p{
     height: 500px;
    
 }
- .top-banner{
+.top-banner{
  }
+
+.drm-big{
+    margin-top: 100px;
+}
+.left-drm{ 
+    width: 50%;
+    padding-left: 50px;
+ }
+ .left-drm img{
+    width: 400px;
+     height: 500px;
+ }
+
+.right-drm{
+    width: 50%;
+
+}
     
