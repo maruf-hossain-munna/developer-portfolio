@@ -83,18 +83,21 @@ a{
     margin-bottom: 150px;
 }
 .left-card{
-    width: 40%;
+    width: 38%;
     border-left: red solid 6px;
     padding-left: 30px;
+    padding-right: 10px;
     box-shadow: 10px 10px 50px gray;
 
 }
 .right-card{
-    width: 40%;
-    margin-left: 5%;
+    width: 38%;
+    margin-left: 8%;
+    margin-right: 5%;
     border-left: blue solid 6px;
     box-shadow: 10px 10px 50px gray;
     padding-left: 30px;
+    padding-right: 10px;
 
 }
 
